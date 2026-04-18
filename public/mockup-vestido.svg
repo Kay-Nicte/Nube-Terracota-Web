@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <!-- Fondo -->
+  <rect width="400" height="500" fill="#F5E6D3" rx="8"/>
+
+  <!-- Vestido largo degradado atardecer -->
+  <defs>
+    <linearGradient id="sunset" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F5B971"/>
+      <stop offset="50%" stop-color="#E8935A"/>
+      <stop offset="100%" stop-color="#C2714F"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Tirantes -->
+  <line x1="165" y1="100" x2="175" y2="140" stroke="#C2714F" stroke-width="2"/>
+  <line x1="235" y1="100" x2="225" y2="140" stroke="#C2714F" stroke-width="2"/>
+
+  <!-- Vestido -->
+  <path d="M170 140 Q200 155 230 140 L235 145 Q240 200 260 300 Q275 380 280 430 L120 430 Q125 380 140 300 Q160 200 165 145 Z" fill="url(#sunset)" stroke="#A85A3A" stroke-width="1.5"/>
+
+  <!-- Tortuga en el centro del vestido -->
+  <g transform="translate(160, 220) scale(0.4)" stroke="#FEFCF9" stroke-width="2" fill="none" opacity="0.7">
+    <ellipse cx="100" cy="100" rx="52" ry="62" stroke-width="2.5"/>
+    <circle cx="100" cy="100" r="22" stroke-width="1.5"/>
+    <circle cx="100" cy="100" r="14" stroke-width="1.5"/>
+    <circle cx="100" cy="100" r="6" fill="#FEFCF9"/>
+    <line x1="100" y1="78" x2="100" y2="58" stroke-width="1.5"/>
+    <line x1="100" y1="122" x2="100" y2="142" stroke-width="1.5"/>
+    <line x1="78" y1="100" x2="58" y2="100" stroke-width="1.5"/>
+    <line x1="122" y1="100" x2="142" y2="100" stroke-width="1.5"/>
+    <path d="M90 62 Q100 52 110 62" stroke-width="1.5" fill="#FEFCF9"/>
+    <path d="M90 138 Q100 148 110 138" stroke-width="1.5" fill="#FEFCF9"/>
+    <path d="M62 90 Q52 100 62 110" stroke-width="1.5" fill="#FEFCF9"/>
+    <path d="M138 90 Q148 100 138 110" stroke-width="1.5" fill="#FEFCF9"/>
+    <ellipse cx="100" cy="30" rx="13" ry="10" stroke-width="2"/>
+    <path d="M58 56 Q34 36 26 46 Q20 54 38 62 Q48 58 54 60" stroke-width="2" stroke-linecap="round"/>
+    <path d="M142 56 Q166 36 174 46 Q180 54 162 62 Q152 58 146 60" stroke-width="2" stroke-linecap="round"/>
+    <path d="M58 144 Q36 160 30 152 Q24 144 40 136 Q48 140 54 140" stroke-width="2" stroke-linecap="round"/>
+    <path d="M142 144 Q164 160 170 152 Q176 144 160 136 Q152 140 146 140" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Texto marca -->
+  <text x="200" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#9B8A82" letter-spacing="3">NUBE TERRACOTA</text>
+</svg>

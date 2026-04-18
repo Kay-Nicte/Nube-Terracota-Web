@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <!-- Fondo -->
+  <rect width="400" height="500" fill="#F5E6D3" rx="8"/>
+
+  <!-- Shorts -->
+  <path d="M100 150 L300 150 L305 160 Q310 165 305 170 L300 170 L290 155 L290 310 Q280 330 250 335 L200 340 L200 340 L150 335 Q120 330 110 310 L110 155 L100 170 L95 170 Q90 165 95 160 Z" fill="#5AACA8" stroke="#3D8B87" stroke-width="1.5"/>
+
+  <!-- Cintura -->
+  <line x1="105" y1="170" x2="295" y2="170" stroke="#3D8B87" stroke-width="1"/>
+
+  <!-- Cordon -->
+  <path d="M190 155 L190 180 Q188 190 185 185" stroke="#FEFCF9" stroke-width="1.5" fill="none"/>
+  <path d="M210 155 L210 180 Q212 190 215 185" stroke="#FEFCF9" stroke-width="1.5" fill="none"/>
+
+  <!-- Entrepierna -->
+  <path d="M200 340 L200 260" stroke="#3D8B87" stroke-width="1"/>
+
+  <!-- Tortuga en pierna izquierda -->
+  <g transform="translate(115, 200) scale(0.35)" stroke="#FEFCF9" stroke-width="2.5" fill="none">
+    <ellipse cx="100" cy="100" rx="52" ry="62" stroke-width="3"/>
+    <path d="M100 50 L125 100 L100 150 L75 100 Z" stroke-width="2"/>
+    <circle cx="100" cy="80" r="8" stroke-width="2"/>
+    <circle cx="100" cy="120" r="8" stroke-width="2"/>
+    <circle cx="100" cy="100" r="5" fill="#FEFCF9"/>
+    <path d="M75 70 L60 85 L75 85 Z" fill="#FEFCF9"/>
+    <path d="M125 70 L140 85 L125 85 Z" fill="#FEFCF9"/>
+    <path d="M75 115 L60 115 L75 130 Z" fill="#FEFCF9"/>
+    <path d="M125 115 L140 115 L125 130 Z" fill="#FEFCF9"/>
+    <ellipse cx="100" cy="30" rx="12" ry="10" stroke-width="2.5"/>
+    <circle cx="95" cy="28" r="1.5" fill="#FEFCF9"/>
+    <circle cx="105" cy="28" r="1.5" fill="#FEFCF9"/>
+    <path d="M60 55 Q35 35 28 45 Q22 52 40 62 Q48 58 55 60" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M140 55 Q165 35 172 45 Q178 52 160 62 Q152 58 145 60" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M60 145 Q38 160 32 152 Q26 144 42 138 Q50 140 55 140" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M140 145 Q162 160 168 152 Q174 144 158 138 Q150 140 145 140" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Texto marca -->
+  <text x="200" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#9B8A82" letter-spacing="3">NUBE TERRACOTA</text>
+</svg>

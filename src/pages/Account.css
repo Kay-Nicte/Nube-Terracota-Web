@@ -1,0 +1,365 @@
+.account-page {
+  padding-top: calc(var(--nav-height) + 40px);
+  padding-bottom: 60px;
+}
+
+.account-header {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 36px;
+}
+
+.account-avatar {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: var(--terracota);
+  color: var(--blanco);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.account-avatar-wrap {
+  position: relative;
+  cursor: pointer;
+}
+
+.account-avatar-wrap:hover .avatar-edit-hint {
+  opacity: 1;
+}
+
+.avatar-edit-hint {
+  position: absolute;
+  bottom: -4px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--terracota);
+  color: var(--blanco);
+  font-size: 0.6rem;
+  padding: 2px 6px;
+  border-radius: 8px;
+  opacity: 0;
+  transition: opacity var(--transition);
+  white-space: nowrap;
+}
+
+.account-avatar-img {
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.account-avatar-svg {
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.account-avatar-svg svg {
+  width: 100%;
+  height: 100%;
+}
+
+.avatar-picker {
+  background: var(--blanco);
+  border: 1px solid var(--borde);
+  border-radius: 16px;
+  padding: 24px;
+  margin-bottom: 24px;
+}
+
+.avatar-picker h3 {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  margin-bottom: 16px;
+}
+
+.avatar-grid {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.avatar-option {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 3px solid transparent;
+  padding: 0;
+  cursor: pointer;
+  transition: all var(--transition);
+}
+
+.avatar-option:hover {
+  border-color: var(--terracota-light);
+  transform: scale(1.1);
+}
+
+.avatar-option.active {
+  border-color: var(--terracota);
+}
+
+.avatar-option svg {
+  width: 100%;
+  height: 100%;
+}
+
+.avatar-upload {
+  background: var(--arena-light);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 2px dashed var(--borde);
+  border-radius: 50%;
+}
+
+.avatar-upload span {
+  font-size: 1.4rem;
+  color: var(--texto-muted);
+  line-height: 1;
+}
+
+.avatar-upload small {
+  font-size: 0.55rem;
+  color: var(--texto-muted);
+  margin-top: 2px;
+}
+
+.avatar-upload:hover {
+  border-color: var(--terracota-light);
+  background: var(--arena);
+}
+
+.account-header h1 {
+  font-size: 1.6rem;
+  margin-bottom: 2px;
+}
+
+.account-email {
+  color: var(--texto-muted);
+  font-size: 0.9rem;
+}
+
+/* Tabs */
+.account-tabs {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 32px;
+  border-bottom: 1px solid var(--borde);
+}
+
+.account-tab {
+  padding: 12px 24px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--texto-muted);
+  border-bottom: 2px solid transparent;
+  transition: all var(--transition);
+  margin-bottom: -1px;
+}
+
+.account-tab:hover {
+  color: var(--texto);
+}
+
+.account-tab.active {
+  color: var(--terracota);
+  border-bottom-color: var(--terracota);
+}
+
+/* Empty state */
+.account-empty {
+  text-align: center;
+  padding: 60px 0;
+}
+
+.account-empty h3 {
+  font-family: var(--font-display);
+  margin-bottom: 8px;
+}
+
+.account-empty p {
+  color: var(--texto-muted);
+  font-size: 0.9rem;
+}
+
+/* Orders */
+.orders-section {
+  margin-bottom: 40px;
+}
+
+.orders-section h2 {
+  font-size: 1.1rem;
+  margin-bottom: 16px;
+  color: var(--texto);
+}
+
+.orders-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.order-card {
+  background: var(--blanco);
+  border: 1px solid var(--borde);
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.order-card.past {
+  opacity: 0.7;
+}
+
+.order-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.order-id {
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: var(--texto);
+}
+
+.order-status {
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--blanco);
+}
+
+.status-fabricando {
+  background: var(--turquesa);
+}
+
+.status-enviado {
+  background: var(--coral);
+}
+
+.status-entregado {
+  background: #5a9a6b;
+}
+
+.order-items {
+  margin-bottom: 12px;
+}
+
+.order-item-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  color: var(--texto-light);
+  padding: 4px 0;
+}
+
+.order-item-detail {
+  color: var(--texto-muted);
+  font-size: 0.8rem;
+}
+
+.order-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 12px;
+  border-top: 1px solid var(--borde);
+}
+
+.order-date {
+  font-size: 0.8rem;
+  color: var(--texto-muted);
+}
+
+.order-total {
+  font-weight: 600;
+  color: var(--terracota);
+}
+
+/* Profile */
+.profile-card {
+  background: var(--blanco);
+  border: 1px solid var(--borde);
+  border-radius: 12px;
+  padding: 24px;
+  max-width: 480px;
+}
+
+.profile-field {
+  margin-bottom: 20px;
+}
+
+.profile-field:last-child {
+  margin-bottom: 0;
+}
+
+.profile-field label {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--texto-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 4px;
+}
+
+.profile-field p {
+  font-size: 1rem;
+  color: var(--texto);
+}
+
+.profile-value-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.profile-edit-btn {
+  font-size: 0.8rem;
+  color: var(--turquesa);
+  font-weight: 500;
+}
+
+.profile-edit-btn:hover {
+  text-decoration: underline;
+}
+
+.profile-edit-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.profile-input {
+  flex: 1;
+  padding: 8px 12px;
+  font-size: 0.9rem;
+}
+
+.btn-small {
+  padding: 8px 16px;
+  font-size: 0.8rem;
+}
+
+@media (max-width: 768px) {
+  .account-header {
+    gap: 14px;
+  }
+
+  .account-header h1 {
+    font-size: 1.3rem;
+  }
+
+  .account-tab {
+    padding: 10px 16px;
+    font-size: 0.85rem;
+  }
+}

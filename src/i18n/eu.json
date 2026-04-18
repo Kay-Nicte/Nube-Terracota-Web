@@ -1,0 +1,138 @@
+{
+  "nav": {
+    "shop": "Denda",
+    "about": "Guri buruz",
+    "contact": "Kontaktua",
+    "cart": "Saskia"
+  },
+  "hero": {
+    "tag": "Surf & Soul Wear",
+    "title": "Itsas usaina duten arropak, ilunabar kutsua dutenak",
+    "subtitle": "Diseinu bereziak surflari arimarekin. Prenda bakoitza zuretzat egiten da, hondakinik gabe. Ozeanoari zor diogulako.",
+    "cta": "Bilduma ikusi",
+    "story": "Gure historia"
+  },
+  "values": {
+    "pod_title": "Print on Demand",
+    "pod_text": "Stock hilik gabe. Zure prenda eskatzen duzunean sortzen da, ehun-hondakina murriztuz.",
+    "materials_title": "Material arduratsuak",
+    "materials_text": "Kotoi organikoa, poliester birziklatua eta planeta errespetatzen duten ehun berritzaileak.",
+    "design_title": "Arima duen diseinua",
+    "design_text": "Estanpatu bakoitza motibo etnikoetatik eta ozeanoarekiko loturatik sortzen da. Jantzitako artea."
+  },
+  "featured": {
+    "title": "Bilatuenak",
+    "subtitle": "Itsasoarekin eta janzten duenarekin lotzen diren piezak",
+    "cta": "Denda osoa ikusi"
+  },
+  "pod_banner": {
+    "title": "Zuretzat egina. Zuretzat bakarrik.",
+    "text1": "Ez dugu arroparik biltegi beteetan. Eskaera egiten duzunean, zure prenda existitzen hasten da. Pieza bakoitza ekintza kontzientea da: gainprodukziorik gabe, hondakinik gabe, presarik gabe.",
+    "text2": "Pixka bat gehiago behar du heltzeko, baina merezi du zuregan pentsatuz egindako zerbait itxarotea.",
+    "cta": "Gehiago jakin"
+  },
+  "newsletter": {
+    "title": "Tribura batu",
+    "subtitle": "Izan lehena diseinu berrien, drop esklusiboen eta olatuen berri izaten.",
+    "placeholder": "Zure emaila",
+    "cta": "Batu"
+  },
+  "shop": {
+    "title": "Denda",
+    "subtitle": "Prenda bakoitza zuretzat egiten da eskatzen duzunean. Presarik gabe, hondakinik gabe.",
+    "empty": "Oraindik ez dago produkturik kategoria honetan. Laster berrikuntzak.",
+    "all": "Denak",
+    "tshirts": "Kamisetак",
+    "hoodies": "Jertseak",
+    "swimwear": "Bainujantziak",
+    "pants": "Galtzak",
+    "dresses": "Soinekoak",
+    "accessories": "Osagarriak"
+  },
+  "product": {
+    "not_found": "Produktua ez da aurkitu",
+    "back": "Dendara itzuli",
+    "pod_badge": "Eskaeran egina -- 5-8 lanegun behar ditu",
+    "size": "Neurria",
+    "size_required": "-- aukeratu bat",
+    "color": "Kolorea",
+    "add_to_cart": "Saskira gehitu",
+    "added": "Saskira gehituta",
+    "details": "Xehetasunak"
+  },
+  "about": {
+    "title": "Itsasora begira jaio ginen",
+    "subtitle": "Nube Terracota surflari arropa-marka bat da, ozeanoarekiko, naturarekin eta guri inspiratzen gaituzten erro etnikoekin duen loturatik sortua.",
+    "history_title": "Historia",
+    "history_p1": "Dena eskuz marraztutako dortokekin hasi zen, aintzinakoa eta garaikidea nahasten dituzten trazu etnikoekin. Marrazki horiek arropa baino zerbait gehiagorekin jantzi nahi zaituen marka baten identitate bihurtu ziren: intentzioarekin.",
+    "history_p2": "Nube Terracota itsasoa bere lekua dela sentitzen dutenentzat dago, ilunabar bat gelditzeko arrazoi nahikoa dela uste dutenentzat, eta soinean daramatenak istorio bat kontatu beharko lukeela uste dutenentzat.",
+    "pod_title": "Print on demand: hondakinik gabeko moda",
+    "pod_intro": "Ez dugu arroparik biltegi beteetan. Prenda bakoitza eskatzen duzunean egiten da. Honek esan nahi du:",
+    "pod_item1": "Zero gainprodukzio: erabiliko ez dena ez da fabrikatzen",
+    "pod_item2": "Material arduratsuak: kotoi organikoa, ehun birziklatuak",
+    "pod_item3": "Tinta ekologikoak: ur-oinarrikoak, kimiko oldarkorrik gabe",
+    "pod_item4": "Bidalketa pentsatuak: bilgarri minimoa eta birziklagarria",
+    "pod_outro": "Moda azkarra baino pixka bat gehiago behar du. Baina moda azkarrak etiketan agertzen ez den kostua du.",
+    "turtles_title": "Dortokak",
+    "turtles_p1": "Itsas dortokak gure sinboloa dira. Milioika urte daramatzate ozeanoak lasaitasunez eta erabakitasunez nabigatzen. Gure diseinuek motibo etnikoekin berrinterpretzen dituzte, arte eramangarri diren piezak sortuz.",
+    "turtles_p2": "Dortoka bakoitza sortzaileak eskuz marrazten du. Ez dira ilustrazio generikoak: nortasun propioa duten pertsonaiak dira.",
+    "cta_title": "Aurkitu zure pieza",
+    "cta_subtitle": "Zurekin eta planetarekin lotzen diren arropak.",
+    "cta_button": "Dendara joan"
+  },
+  "contact": {
+    "title": "Hitz egin dezagun",
+    "subtitle": "Galderak, ideiak, lankidetzak edo agur bat esan. Beste aldean gaude.",
+    "email": "Emaila",
+    "social": "Sareak",
+    "response_title": "Erantzun-denbora",
+    "response_text": "24-48 lanordutan erantzuten dugu. Urgenteа bada, idatzi URGENTEA gaian.",
+    "name": "Izena",
+    "subject": "Gaia",
+    "subject_placeholder": "Aukeratu bat",
+    "subject_order": "Nire eskaerari buruz",
+    "subject_product": "Produktuari buruzko galdera",
+    "subject_collab": "Lankidetza",
+    "subject_other": "Bestea",
+    "message": "Mezua",
+    "send": "Mezua bidali",
+    "success_title": "Mezua bidalita",
+    "success_text": "Ahalik eta azkarren erantzungo dizugu. Eskerrik asko idazteagatik."
+  },
+  "cart": {
+    "title": "Zure saskia",
+    "empty_title": "Zure saskia hutsik dago",
+    "empty_text": "Oraindik ez duzu ezer gehitu. Begiratu dendari.",
+    "go_shop": "Dendara joan",
+    "size": "Neurria",
+    "color": "Kolorea",
+    "pod_note": "Eskaeran fabrikatuko da",
+    "summary": "Laburpena",
+    "subtotal": "Azpitotala",
+    "shipping": "Bidalketa",
+    "free": "Doakoa",
+    "total": "Guztira",
+    "free_shipping": "Bidalketa doakoa duzu",
+    "shipping_left": "{{amount}} EUR falta zaizkizu bidalketa doanerako",
+    "checkout": "Eskaera egin",
+    "clear": "Saskia hustu"
+  },
+  "footer": {
+    "tagline": "Surflari arropak arimarekin. Eskaeran eginak, hondakinik gabe. Prenda bakoitzak ozeanoko puska bat darama.",
+    "shop": "Denda",
+    "see_all": "Dena ikusi",
+    "tshirts": "Kamisetак",
+    "hoodies": "Jertseak",
+    "swimwear": "Bainujantziak",
+    "info": "Info",
+    "about": "Guri buruz",
+    "contact": "Kontaktua",
+    "shipping": "Bidalketak eta itzulketak",
+    "sustainability": "Jasangarritasuna",
+    "follow": "Jarraitu guri",
+    "bottom": "Gatzarekin eta eguzkiarekin egina",
+    "legal": "Lege-oharra",
+    "privacy": "Pribatutasuna",
+    "cookies": "Cookieak"
+  }
+}

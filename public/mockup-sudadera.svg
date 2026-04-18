@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <!-- Fondo -->
+  <rect width="400" height="500" fill="#F5E6D3" rx="8"/>
+
+  <!-- Sudadera crema -->
+  <path d="M110 150 L85 170 L40 155 L25 195 L70 215 L65 390 L335 390 L330 215 L375 195 L360 155 L315 170 L290 150
+    Q260 130 200 125 Q140 130 110 150 Z" fill="#FFF8F0" stroke="#E8DDD4" stroke-width="1.5"/>
+
+  <!-- Cuello con capucha -->
+  <path d="M150 138 Q170 125 200 122 Q230 125 250 138" stroke="#E8DDD4" stroke-width="1.5" fill="none"/>
+  <path d="M150 138 Q145 120 165 108 Q185 100 200 100 Q215 100 235 108 Q255 120 250 138" stroke="#E8DDD4" stroke-width="1.5" fill="#FFF8F0"/>
+
+  <!-- Bolsillo canguro -->
+  <rect x="130" y="310" width="140" height="50" rx="8" stroke="#E8DDD4" stroke-width="1" fill="none"/>
+
+  <!-- Tortuga pequena en pecho - hexagonal -->
+  <g transform="translate(165, 185) scale(0.35)" stroke="#3A2E2A" stroke-width="2.5" fill="none">
+    <ellipse cx="100" cy="100" rx="52" ry="62" stroke-width="3"/>
+    <polygon points="100,58 130,78 130,118 100,138 70,118 70,78" stroke-width="2"/>
+    <circle cx="100" cy="98" r="18" stroke-width="2"/>
+    <circle cx="100" cy="98" r="10" stroke-width="2"/>
+    <circle cx="100" cy="98" r="4" fill="#3A2E2A"/>
+    <path d="M100 58 L130 78 L100 78 Z" fill="#3A2E2A" opacity="0.8"/>
+    <path d="M100 138 L70 118 L100 118 Z" fill="#3A2E2A" opacity="0.8"/>
+    <ellipse cx="100" cy="30" rx="12" ry="10" stroke-width="2.5"/>
+    <circle cx="95" cy="28" r="1.5" fill="#3A2E2A"/>
+    <circle cx="105" cy="28" r="1.5" fill="#3A2E2A"/>
+    <path d="M58 58 Q32 38 25 48 Q20 56 38 64 Q48 60 54 62" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M142 58 Q168 38 175 48 Q180 56 162 64 Q152 60 146 62" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M58 142 Q35 158 30 150 Q24 142 40 136 Q48 138 54 138" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M142 142 Q165 158 170 150 Q176 142 160 136 Q152 138 146 138" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M100 162 Q98 178 94 174" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Texto marca -->
+  <text x="200" y="440" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#9B8A82" letter-spacing="3">NUBE TERRACOTA</text>
+</svg>

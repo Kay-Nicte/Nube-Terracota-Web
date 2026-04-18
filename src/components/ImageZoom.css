@@ -1,0 +1,24 @@
+.zoomable {
+  cursor: zoom-in;
+  width: 100%;
+  border-radius: 16px;
+}
+
+.image-zoom-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  cursor: zoom-out;
+}
+
+.image-zoom-full {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 8px;
+  object-fit: contain;
+}

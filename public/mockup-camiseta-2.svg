@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <!-- Fondo -->
+  <rect width="400" height="500" fill="#F5E6D3" rx="8"/>
+
+  <!-- Camiseta color terracota -->
+  <path d="M120 140 L100 160 L60 145 L45 180 L80 200 L80 380 L320 380 L320 200 L355 180 L340 145 L300 160 L280 140
+    Q260 120 200 115 Q140 120 120 140 Z" fill="#C2714F" stroke="#A85A3A" stroke-width="1.5"/>
+
+  <!-- Cuello -->
+  <path d="M160 130 Q200 145 240 130" stroke="#A85A3A" stroke-width="1.5" fill="none"/>
+
+  <!-- Tortuga centrada - mandala -->
+  <g transform="translate(148, 195) scale(0.5)" stroke="#FEFCF9" stroke-width="2" fill="none">
+    <ellipse cx="100" cy="100" rx="52" ry="62" stroke-width="2.5"/>
+    <circle cx="100" cy="100" r="22" stroke-width="1.5"/>
+    <circle cx="100" cy="100" r="14" stroke-width="1.5"/>
+    <circle cx="100" cy="100" r="6" fill="#FEFCF9"/>
+    <line x1="100" y1="78" x2="100" y2="58" stroke-width="1.5"/>
+    <line x1="100" y1="122" x2="100" y2="142" stroke-width="1.5"/>
+    <line x1="78" y1="100" x2="58" y2="100" stroke-width="1.5"/>
+    <line x1="122" y1="100" x2="142" y2="100" stroke-width="1.5"/>
+    <line x1="85" y1="85" x2="68" y2="68" stroke-width="1.2"/>
+    <line x1="115" y1="85" x2="132" y2="68" stroke-width="1.2"/>
+    <line x1="85" y1="115" x2="68" y2="132" stroke-width="1.2"/>
+    <line x1="115" y1="115" x2="132" y2="132" stroke-width="1.2"/>
+    <path d="M90 62 Q100 52 110 62" stroke-width="1.5" fill="#FEFCF9"/>
+    <path d="M90 138 Q100 148 110 138" stroke-width="1.5" fill="#FEFCF9"/>
+    <path d="M62 90 Q52 100 62 110" stroke-width="1.5" fill="#FEFCF9"/>
+    <path d="M138 90 Q148 100 138 110" stroke-width="1.5" fill="#FEFCF9"/>
+    <circle cx="100" cy="86" r="2.5" fill="#FEFCF9"/>
+    <circle cx="100" cy="114" r="2.5" fill="#FEFCF9"/>
+    <circle cx="86" cy="100" r="2.5" fill="#FEFCF9"/>
+    <circle cx="114" cy="100" r="2.5" fill="#FEFCF9"/>
+    <path d="M72 72 L78 68 L78 76 Z" fill="#FEFCF9"/>
+    <path d="M128 72 L122 68 L122 76 Z" fill="#FEFCF9"/>
+    <path d="M72 128 L78 124 L78 132 Z" fill="#FEFCF9"/>
+    <path d="M128 128 L122 124 L122 132 Z" fill="#FEFCF9"/>
+    <ellipse cx="100" cy="30" rx="13" ry="10" stroke-width="2"/>
+    <circle cx="95" cy="28" r="1.5" fill="#FEFCF9"/>
+    <circle cx="105" cy="28" r="1.5" fill="#FEFCF9"/>
+    <path d="M93 33 L100 38 L107 33" stroke-width="1.2"/>
+    <path d="M58 56 Q34 36 26 46 Q20 54 38 62 Q48 58 54 60" stroke-width="2" stroke-linecap="round"/>
+    <path d="M142 56 Q166 36 174 46 Q180 54 162 62 Q152 58 146 60" stroke-width="2" stroke-linecap="round"/>
+    <path d="M58 144 Q36 160 30 152 Q24 144 40 136 Q48 140 54 140" stroke-width="2" stroke-linecap="round"/>
+    <path d="M142 144 Q164 160 170 152 Q176 144 160 136 Q152 140 146 140" stroke-width="2" stroke-linecap="round"/>
+    <path d="M100 162 L98 176 L95 172" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Texto marca -->
+  <text x="200" y="430" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#9B8A82" letter-spacing="3">NUBE TERRACOTA</text>
+</svg>

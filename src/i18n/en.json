@@ -1,0 +1,138 @@
+{
+  "nav": {
+    "shop": "Shop",
+    "about": "About us",
+    "contact": "Contact",
+    "cart": "Cart"
+  },
+  "hero": {
+    "tag": "Surf & Soul Wear",
+    "title": "Clothes that smell like the sea and taste like sunset",
+    "subtitle": "Unique designs with a surfer soul. Every garment is made just for you, zero waste. Because the ocean deserves our care.",
+    "cta": "See collection",
+    "story": "Our story"
+  },
+  "values": {
+    "pod_title": "Print on Demand",
+    "pod_text": "No dead stock. Your garment is created when you order it, reducing textile waste.",
+    "materials_title": "Conscious materials",
+    "materials_text": "Organic cotton, recycled polyester and innovative fabrics that respect the planet.",
+    "design_title": "Design with soul",
+    "design_text": "Every print is born from ethnic motifs and our connection with the ocean. Art you wear."
+  },
+  "featured": {
+    "title": "Most wanted",
+    "subtitle": "Pieces that connect with the sea and with the one who wears them",
+    "cta": "See all products"
+  },
+  "pod_banner": {
+    "title": "Made for you. Only for you.",
+    "text1": "We don't have warehouses full of clothes waiting. When you place your order, your garment begins to exist. Each piece is a conscious act: no overproduction, no waste, no rush.",
+    "text2": "It takes a little longer to arrive, but it's worth waiting for something made with you in mind.",
+    "cta": "Learn more"
+  },
+  "newsletter": {
+    "title": "Join the tribe",
+    "subtitle": "Be the first to know about new designs, exclusive drops and waves worth catching.",
+    "placeholder": "Your email",
+    "cta": "Join"
+  },
+  "shop": {
+    "title": "Shop",
+    "subtitle": "Every garment is made for you when you order it. No rush, no waste.",
+    "empty": "No products in this category yet. New items coming soon.",
+    "all": "All",
+    "tshirts": "T-shirts",
+    "hoodies": "Hoodies",
+    "swimwear": "Swimwear",
+    "pants": "Shorts",
+    "dresses": "Dresses",
+    "accessories": "Accessories"
+  },
+  "product": {
+    "not_found": "Product not found",
+    "back": "Back to shop",
+    "pod_badge": "Made on demand -- takes 5-8 business days",
+    "size": "Size",
+    "size_required": "-- choose one",
+    "color": "Colour",
+    "add_to_cart": "Add to cart",
+    "added": "Added to cart",
+    "details": "Details"
+  },
+  "about": {
+    "title": "We were born looking at the sea",
+    "subtitle": "Nube Terracota is a surfer clothing brand born from the connection with the ocean, nature and the ethnic roots that inspire us.",
+    "history_title": "The story",
+    "history_p1": "It all started with hand-drawn turtles, with ethnic strokes that blend the ancestral with the contemporary. Those drawings became the identity of a brand that wants to dress you with more than clothes: with intention.",
+    "history_p2": "Nube Terracota exists for those who feel the sea is their place, that a sunset is reason enough to stop, and that what they wear should tell a story.",
+    "pod_title": "Print on demand: fashion without waste",
+    "pod_intro": "We don't have warehouses full of clothes. Every garment is made when you order it. This means:",
+    "pod_item1": "Zero overproduction: we don't make what won't be used",
+    "pod_item2": "Conscious materials: organic cotton, recycled fabrics",
+    "pod_item3": "Eco-friendly inks: water-based, no harsh chemicals",
+    "pod_item4": "Thoughtful shipping: minimal, recyclable packaging",
+    "pod_outro": "It takes a bit longer than fast fashion. But fast fashion has a cost that doesn't show on the label.",
+    "turtles_title": "The turtles",
+    "turtles_p1": "Sea turtles are our symbol. They've been navigating the oceans for millions of years with calm and determination. Our designs reinterpret them with ethnic motifs, creating pieces that are portable art.",
+    "turtles_p2": "Every turtle is hand-drawn by the founder. They're not generic illustrations: they're characters with their own soul.",
+    "cta_title": "Find your piece",
+    "cta_subtitle": "Clothes that connect with you and with the planet.",
+    "cta_button": "Go to shop"
+  },
+  "contact": {
+    "title": "Let's talk",
+    "subtitle": "Questions, ideas, collaborations or just saying hello. We're on the other side.",
+    "email": "Email",
+    "social": "Social",
+    "response_title": "Response times",
+    "response_text": "We reply within 24-48 business hours. If it's urgent, write URGENT in the subject.",
+    "name": "Name",
+    "subject": "Subject",
+    "subject_placeholder": "Choose one",
+    "subject_order": "About my order",
+    "subject_product": "Product question",
+    "subject_collab": "Collaboration",
+    "subject_other": "Other",
+    "message": "Message",
+    "send": "Send message",
+    "success_title": "Message sent",
+    "success_text": "We'll get back to you as soon as possible. Thanks for writing."
+  },
+  "cart": {
+    "title": "Your cart",
+    "empty_title": "Your cart is empty",
+    "empty_text": "You haven't added anything yet. Take a look at the shop.",
+    "go_shop": "Go to shop",
+    "size": "Size",
+    "color": "Colour",
+    "pod_note": "Will be made on demand",
+    "summary": "Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "free": "Free",
+    "total": "Total",
+    "free_shipping": "You have free shipping",
+    "shipping_left": "You need {{amount}} EUR more for free shipping",
+    "checkout": "Checkout",
+    "clear": "Clear cart"
+  },
+  "footer": {
+    "tagline": "Surfer clothing with soul. Made on demand, zero waste. Every garment carries a piece of the ocean.",
+    "shop": "Shop",
+    "see_all": "See all",
+    "tshirts": "T-shirts",
+    "hoodies": "Hoodies",
+    "swimwear": "Swimwear",
+    "info": "Info",
+    "about": "About us",
+    "contact": "Contact",
+    "shipping": "Shipping & returns",
+    "sustainability": "Sustainability",
+    "follow": "Follow us",
+    "bottom": "Made with salt and sun",
+    "legal": "Legal notice",
+    "privacy": "Privacy",
+    "cookies": "Cookies"
+  }
+}

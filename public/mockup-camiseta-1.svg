@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <!-- Fondo -->
+  <rect width="400" height="500" fill="#F5E6D3" rx="8"/>
+
+  <!-- Camiseta -->
+  <path d="M120 140 L100 160 L60 145 L45 180 L80 200 L80 380 L320 380 L320 200 L355 180 L340 145 L300 160 L280 140
+    Q260 120 200 115 Q140 120 120 140 Z" fill="#FEFCF9" stroke="#E8DDD4" stroke-width="1.5"/>
+
+  <!-- Cuello -->
+  <path d="M160 130 Q200 145 240 130" stroke="#E8DDD4" stroke-width="1.5" fill="none"/>
+
+  <!-- Tortuga centrada en la camiseta -->
+  <g transform="translate(148, 195) scale(0.5)" stroke="#3A2E2A" stroke-width="2" fill="none">
+    <ellipse cx="100" cy="100" rx="52" ry="62" stroke-width="2.5"/>
+    <path d="M100 50 L125 100 L100 150 L75 100 Z" stroke-width="1.5"/>
+    <circle cx="100" cy="80" r="8" stroke-width="1.5"/>
+    <circle cx="100" cy="120" r="8" stroke-width="1.5"/>
+    <circle cx="100" cy="100" r="5" fill="#3A2E2A"/>
+    <path d="M75 70 L60 85 L75 85 Z" fill="#3A2E2A"/>
+    <path d="M75 90 L58 100 L75 110 Z" fill="#3A2E2A"/>
+    <path d="M75 115 L60 115 L75 130 Z" fill="#3A2E2A"/>
+    <path d="M125 70 L140 85 L125 85 Z" fill="#3A2E2A"/>
+    <path d="M125 90 L142 100 L125 110 Z" fill="#3A2E2A"/>
+    <path d="M125 115 L140 115 L125 130 Z" fill="#3A2E2A"/>
+    <path d="M80 55 Q100 65 120 55" stroke-width="1.5"/>
+    <path d="M80 145 Q100 135 120 145" stroke-width="1.5"/>
+    <ellipse cx="100" cy="30" rx="12" ry="10" stroke-width="2"/>
+    <circle cx="95" cy="28" r="1.5" fill="#3A2E2A"/>
+    <circle cx="105" cy="28" r="1.5" fill="#3A2E2A"/>
+    <path d="M60 55 Q35 35 28 45 Q22 52 40 62 Q48 58 55 60" stroke-width="2" stroke-linecap="round"/>
+    <path d="M140 55 Q165 35 172 45 Q178 52 160 62 Q152 58 145 60" stroke-width="2" stroke-linecap="round"/>
+    <path d="M60 145 Q38 160 32 152 Q26 144 42 138 Q50 140 55 140" stroke-width="2" stroke-linecap="round"/>
+    <path d="M140 145 Q162 160 168 152 Q174 144 158 138 Q150 140 145 140" stroke-width="2" stroke-linecap="round"/>
+    <path d="M100 162 L100 175 L96 170" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Texto marca -->
+  <text x="200" y="430" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#9B8A82" letter-spacing="3">NUBE TERRACOTA</text>
+</svg>

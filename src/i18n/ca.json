@@ -1,0 +1,138 @@
+{
+  "nav": {
+    "shop": "Botiga",
+    "about": "Nosaltres",
+    "contact": "Contacte",
+    "cart": "Cistella"
+  },
+  "hero": {
+    "tag": "Surf & Soul Wear",
+    "title": "Roba que fa olor de mar i sap a capvespre",
+    "subtitle": "Dissenys únics amb ànima surfera. Cada peça es fabrica per a tu, sense malbaratament. Perquè l'oceà mereix que en tinguem cura.",
+    "cta": "Veure col·lecció",
+    "story": "La nostra història"
+  },
+  "values": {
+    "pod_title": "Print on Demand",
+    "pod_text": "Sense estoc mort. La teva peça es crea quan la demanes, reduint el malbaratament tèxtil.",
+    "materials_title": "Materials conscients",
+    "materials_text": "Cotó orgànic, polièster reciclat i teixits innovadors que respecten el planeta.",
+    "design_title": "Disseny amb ànima",
+    "design_text": "Cada estampat neix de motius ètnics i la connexió amb l'oceà. Art que portes posat."
+  },
+  "featured": {
+    "title": "Els més buscats",
+    "subtitle": "Peces que connecten amb el mar i amb qui les porta",
+    "cta": "Veure tota la botiga"
+  },
+  "pod_banner": {
+    "title": "Fabricada per a tu. Només per a tu.",
+    "text1": "No tenim magatzems plens de roba esperant. Quan fas la teva comanda, la teva peça comença a existir. Cada peça és un acte conscient: sense sobreproducció, sense malbaratament, sense presses.",
+    "text2": "Triga una mica més a arribar, però paga la pena esperar per alguna cosa feta pensant en tu.",
+    "cta": "Saber-ne més"
+  },
+  "newsletter": {
+    "title": "Uneix-te a la tribu",
+    "subtitle": "Assabenta't abans que ningú dels nous dissenys, drops exclusius i onades que valen la pena.",
+    "placeholder": "El teu email",
+    "cta": "Unir-me"
+  },
+  "shop": {
+    "title": "Botiga",
+    "subtitle": "Cada peça es fabrica per a tu quan la demanes. Sense presses, sense malbaratament.",
+    "empty": "Encara no hi ha productes en aquesta categoria. Aviat hi haurà novetats.",
+    "all": "Tots",
+    "tshirts": "Samarretes",
+    "hoodies": "Dessuadores",
+    "swimwear": "Banyadors",
+    "pants": "Pantalons",
+    "dresses": "Vestits",
+    "accessories": "Accessoris"
+  },
+  "product": {
+    "not_found": "Producte no trobat",
+    "back": "Tornar a la botiga",
+    "pod_badge": "Fabricada sota demanda -- triga 5-8 dies laborables",
+    "size": "Talla",
+    "size_required": "-- tria'n una",
+    "color": "Color",
+    "add_to_cart": "Afegir a la cistella",
+    "added": "Afegit a la cistella",
+    "details": "Detalls"
+  },
+  "about": {
+    "title": "Vam néixer mirant al mar",
+    "subtitle": "Nube Terracota és una marca de roba surfera que neix de la connexió amb l'oceà, la natura i les arrels ètniques que ens inspiren.",
+    "history_title": "La història",
+    "history_p1": "Tot va començar amb unes tortugues dibuixades a mà, amb traços ètnics que barregen l'ancestral amb el contemporani. Aquells dibuixos es van convertir en la identitat d'una marca que vol vestir-te amb alguna cosa més que roba: amb intenció.",
+    "history_p2": "Nube Terracota existeix per a qui sent que el mar és el seu lloc, que un capvespre és motiu suficient per aturar-se, i que el que porten posat hauria d'explicar una història.",
+    "pod_title": "Print on demand: moda sense malbaratament",
+    "pod_intro": "No tenim magatzems plens de roba. Cada peça es fabrica quan la demanes. Això significa:",
+    "pod_item1": "Zero sobreproducció: no es fabrica el que no s'usarà",
+    "pod_item2": "Materials conscients: cotó orgànic, teixits reciclats",
+    "pod_item3": "Tintes ecològiques: a base d'aigua, sense químics agressius",
+    "pod_item4": "Enviaments pensats: embalatge mínim i reciclable",
+    "pod_outro": "Triga una mica més que la moda ràpida. Però la moda ràpida té un cost que no apareix a l'etiqueta.",
+    "turtles_title": "Les tortugues",
+    "turtles_p1": "Les tortugues marines són el nostre símbol. Porten milions d'anys navegant els oceans amb calma i determinació. Els nostres dissenys les reinterpreten amb motius ètnics, creant peces que són art portàtil.",
+    "turtles_p2": "Cada tortuga està dibuixada a mà per la fundadora. No són il·lustracions genèriques: són personatges amb ànima pròpia.",
+    "cta_title": "Troba la teva peça",
+    "cta_subtitle": "Roba que connecta amb tu i amb el planeta.",
+    "cta_button": "Anar a la botiga"
+  },
+  "contact": {
+    "title": "Parlem",
+    "subtitle": "Preguntes, idees, col·laboracions o simplement saludar. Som a l'altre costat.",
+    "email": "Email",
+    "social": "Xarxes",
+    "response_title": "Temps de resposta",
+    "response_text": "Responem en 24-48h laborables. Si és urgent, escriu URGENT a l'assumpte.",
+    "name": "Nom",
+    "subject": "Assumpte",
+    "subject_placeholder": "Tria'n un",
+    "subject_order": "Sobre la meva comanda",
+    "subject_product": "Pregunta sobre un producte",
+    "subject_collab": "Col·laboració",
+    "subject_other": "Altre",
+    "message": "Missatge",
+    "send": "Enviar missatge",
+    "success_title": "Missatge enviat",
+    "success_text": "Et responem el més aviat possible. Gràcies per escriure'ns."
+  },
+  "cart": {
+    "title": "La teva cistella",
+    "empty_title": "La teva cistella és buida",
+    "empty_text": "Encara no has afegit res. Fes un cop d'ull a la botiga.",
+    "go_shop": "Anar a la botiga",
+    "size": "Talla",
+    "color": "Color",
+    "pod_note": "Es fabricarà sota demanda",
+    "summary": "Resum",
+    "subtotal": "Subtotal",
+    "shipping": "Enviament",
+    "free": "Gratuït",
+    "total": "Total",
+    "free_shipping": "Tens enviament gratuït",
+    "shipping_left": "Et falten {{amount}} EUR per enviament gratuït",
+    "checkout": "Tramitar comanda",
+    "clear": "Buidar cistella"
+  },
+  "footer": {
+    "tagline": "Roba surfera amb ànima. Fabricada sota demanda, sense malbaratament. Cada peça porta un tros d'oceà.",
+    "shop": "Botiga",
+    "see_all": "Veure tot",
+    "tshirts": "Samarretes",
+    "hoodies": "Dessuadores",
+    "swimwear": "Banyadors",
+    "info": "Info",
+    "about": "Nosaltres",
+    "contact": "Contacte",
+    "shipping": "Enviaments i devolucions",
+    "sustainability": "Sostenibilitat",
+    "follow": "Segueix-nos",
+    "bottom": "Feta amb sal i sol",
+    "legal": "Avís legal",
+    "privacy": "Privacitat",
+    "cookies": "Cookies"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "nav": {
+    "shop": "Tienda",
+    "about": "Nosotras",
+    "contact": "Contacto",
+    "cart": "Carrito"
+  },
+  "hero": {
+    "tag": "Surf & Soul Wear",
+    "title": "Ropa que huele a mar y sabe a atardecer",
+    "subtitle": "Diseños únicos con alma surfera. Cada prenda se fabrica para ti, sin desperdicio. Porque el océano merece que lo cuidemos.",
+    "cta": "Ver colección",
+    "story": "Nuestra historia"
+  },
+  "values": {
+    "pod_title": "Print on Demand",
+    "pod_text": "Sin stock muerto. Tu prenda se crea cuando la pides, reduciendo el desperdicio textil.",
+    "materials_title": "Materiales conscientes",
+    "materials_text": "Algodón orgánico, poliéster reciclado y tejidos innovadores que respetan el planeta.",
+    "design_title": "Diseño con alma",
+    "design_text": "Cada estampado nace de motivos étnicos y la conexión con el océano. Arte que llevas puesto."
+  },
+  "featured": {
+    "title": "Lo más buscado",
+    "subtitle": "Piezas que conectan con el mar y con quien las lleva",
+    "cta": "Ver toda la tienda"
+  },
+  "pod_banner": {
+    "title": "Fabricada para ti. Solo para ti.",
+    "text1": "No tenemos almacenes llenos de ropa esperando. Cuando haces tu pedido, tu prenda empieza a existir. Cada pieza es un acto consciente: sin sobreproducción, sin desperdicio, sin prisas.",
+    "text2": "Tarda un poquito más en llegar, pero merece la pena esperar por algo que se hizo pensando en ti.",
+    "cta": "Saber más"
+  },
+  "newsletter": {
+    "title": "Únete a la tribu",
+    "subtitle": "Entérate antes que nadie de nuevos diseños, drops exclusivos y olas que merecen la pena.",
+    "placeholder": "Tu email",
+    "cta": "Unirme"
+  },
+  "shop": {
+    "title": "Tienda",
+    "subtitle": "Cada prenda se fabrica para ti cuando la pides. Sin prisas, sin desperdicio.",
+    "empty": "No hay productos en esta categoría todavía. Pronto habrá novedades.",
+    "all": "Todos",
+    "tshirts": "Camisetas",
+    "hoodies": "Sudaderas",
+    "swimwear": "Bañadores",
+    "pants": "Pantalones",
+    "dresses": "Vestidos",
+    "accessories": "Accesorios"
+  },
+  "product": {
+    "not_found": "Producto no encontrado",
+    "back": "Volver a la tienda",
+    "pod_badge": "Fabricada bajo demanda -- tarda 5-8 días laborables",
+    "size": "Talla",
+    "size_required": "-- elige una",
+    "color": "Color",
+    "add_to_cart": "Añadir al carrito",
+    "added": "Añadido al carrito",
+    "details": "Detalles"
+  },
+  "about": {
+    "title": "Nacimos mirando al mar",
+    "subtitle": "Nube Terracota es una marca de ropa surfera que nace de la conexión con el océano, la naturaleza y las raíces étnicas que nos inspiran.",
+    "history_title": "La historia",
+    "history_p1": "Todo empezó con unas tortugas dibujadas a mano, con trazos étnicos que mezclan lo ancestral con lo contemporáneo. Esos dibujos se convirtieron en la identidad de una marca que quiere vestirte con algo más que ropa: con intención.",
+    "history_p2": "Nube Terracota existe para quienes sienten que el mar es su sitio, que un atardecer es suficiente motivo para pararse, y que lo que llevan puesto debería contar una historia.",
+    "pod_title": "Print on demand: moda sin desperdicio",
+    "pod_intro": "No tenemos almacenes llenos de ropa. Cada prenda se fabrica cuando la pides. Esto significa:",
+    "pod_item1": "Cero sobreproducción: no se fabrica lo que no se va a usar",
+    "pod_item2": "Materiales conscientes: algodón orgánico, tejidos reciclados",
+    "pod_item3": "Tintas ecológicas: a base de agua, sin químicos agresivos",
+    "pod_item4": "Envíos pensados: packaging mínimo y reciclable",
+    "pod_outro": "Tarda un poco más en llegar que la moda rápida. Pero la moda rápida tiene un coste que no aparece en la etiqueta.",
+    "turtles_title": "Las tortugas",
+    "turtles_p1": "Las tortugas marinas son nuestro símbolo. Llevan millones de años navegando los océanos con calma y determinación. Nuestros diseños las reinterpretan con motivos étnicos, creando piezas que son arte portátil.",
+    "turtles_p2": "Cada tortuga está dibujada a mano por la fundadora. No son ilustraciones genéricas: son personajes con alma propia.",
+    "cta_title": "Encuentra tu pieza",
+    "cta_subtitle": "Ropa que conecta contigo y con el planeta.",
+    "cta_button": "Ir a la tienda"
+  },
+  "contact": {
+    "title": "Hablemos",
+    "subtitle": "Preguntas, ideas, colaboraciones o simplemente saludar. Estamos al otro lado.",
+    "email": "Email",
+    "social": "Redes",
+    "response_title": "Tiempos de respuesta",
+    "response_text": "Respondemos en 24-48h laborables. Si es urgente, escribe URGENTE en el asunto.",
+    "name": "Nombre",
+    "subject": "Asunto",
+    "subject_placeholder": "Elige uno",
+    "subject_order": "Sobre mi pedido",
+    "subject_product": "Pregunta sobre un producto",
+    "subject_collab": "Colaboración",
+    "subject_other": "Otro",
+    "message": "Mensaje",
+    "send": "Enviar mensaje",
+    "success_title": "Mensaje enviado",
+    "success_text": "Te respondemos lo antes posible. Gracias por escribirnos."
+  },
+  "cart": {
+    "title": "Tu carrito",
+    "empty_title": "Tu carrito está vacío",
+    "empty_text": "Aún no has añadido nada. Echa un vistazo a la tienda.",
+    "go_shop": "Ir a la tienda",
+    "size": "Talla",
+    "color": "Color",
+    "pod_note": "Se fabricará bajo demanda",
+    "summary": "Resumen",
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "free": "Gratis",
+    "total": "Total",
+    "free_shipping": "Tienes envío gratis",
+    "shipping_left": "Te faltan {{amount}} EUR para envío gratis",
+    "checkout": "Tramitar pedido",
+    "clear": "Vaciar carrito"
+  },
+  "footer": {
+    "tagline": "Ropa surfera con alma. Fabricada bajo demanda, sin desperdicio. Cada prenda lleva un trozo de océano.",
+    "shop": "Tienda",
+    "see_all": "Ver todo",
+    "tshirts": "Camisetas",
+    "hoodies": "Sudaderas",
+    "swimwear": "Bañadores",
+    "info": "Info",
+    "about": "Nosotras",
+    "contact": "Contacto",
+    "shipping": "Envíos y devoluciones",
+    "sustainability": "Sostenibilidad",
+    "follow": "Síguenos",
+    "bottom": "Hecha con sal y sol",
+    "legal": "Aviso legal",
+    "privacy": "Privacidad",
+    "cookies": "Cookies"
+  }
+}

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <!-- Fondo -->
+  <rect width="400" height="500" fill="#F5E6D3" rx="8"/>
+
+  <!-- Top bikini -->
+  <path d="M130 200 Q150 170 175 180 Q195 185 200 195 Q205 185 225 180 Q250 170 270 200 L260 210 Q240 195 225 200 Q210 205 200 215 Q190 205 175 200 Q160 195 140 210 Z" fill="#E07A6B" stroke="#C2614F" stroke-width="1.5"/>
+
+  <!-- Tirantes -->
+  <path d="M140 205 Q130 180 145 155 Q160 140 180 145" stroke="#C2614F" stroke-width="1.5" fill="none"/>
+  <path d="M260 205 Q270 180 255 155 Q240 140 220 145" stroke="#C2614F" stroke-width="1.5" fill="none"/>
+
+  <!-- Tira central -->
+  <path d="M175 190 Q200 195 225 190" stroke="#C2614F" stroke-width="1"/>
+
+  <!-- Tortuga pequenita en el centro -->
+  <g transform="translate(185, 183) scale(0.08)" stroke="#FEFCF9" stroke-width="4" fill="none">
+    <ellipse cx="100" cy="100" rx="52" ry="62" stroke-width="5"/>
+    <circle cx="100" cy="100" r="22" stroke-width="4"/>
+    <circle cx="100" cy="100" r="6" fill="#FEFCF9"/>
+    <ellipse cx="100" cy="30" rx="12" ry="10" stroke-width="5"/>
+    <path d="M58 56 Q34 36 26 46 Q20 54 38 62 Q48 58 54 60" stroke-width="5" stroke-linecap="round"/>
+    <path d="M142 56 Q166 36 174 46 Q180 54 162 62 Q152 58 146 60" stroke-width="5" stroke-linecap="round"/>
+    <path d="M58 144 Q36 160 30 152 Q24 144 40 136 Q48 140 54 140" stroke-width="5" stroke-linecap="round"/>
+    <path d="M142 144 Q164 160 170 152 Q176 144 160 136 Q152 140 146 140" stroke-width="5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Braguita -->
+  <path d="M155 300 Q175 285 200 282 Q225 285 245 300 Q240 340 225 370 Q210 385 200 388 Q190 385 175 370 Q160 340 155 300 Z" fill="#E07A6B" stroke="#C2614F" stroke-width="1.5"/>
+
+  <!-- Tiras laterales -->
+  <path d="M155 300 Q140 295 130 298" stroke="#C2614F" stroke-width="1.5" fill="none"/>
+  <path d="M245 300 Q260 295 270 298" stroke="#C2614F" stroke-width="1.5" fill="none"/>
+
+  <!-- Texto marca -->
+  <text x="200" y="450" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#9B8A82" letter-spacing="3">NUBE TERRACOTA</text>
+</svg>

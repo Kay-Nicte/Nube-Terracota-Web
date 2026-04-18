@@ -1,0 +1,30 @@
+.order-complete {
+  padding-top: var(--nav-height);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: calc(100vh - var(--nav-height) - 120px);
+}
+
+.order-complete-content {
+  text-align: center;
+  padding: 40px 0;
+  max-width: 520px;
+  margin: 0 auto;
+}
+
+.order-complete-content h1 {
+  color: var(--turquesa);
+  margin-bottom: 20px;
+}
+
+.order-complete-content p {
+  color: var(--texto-light);
+  line-height: 1.7;
+  margin-bottom: 12px;
+}
+
+.order-time {
+  color: var(--terracota);
+  font-weight: 500;
+}

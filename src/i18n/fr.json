@@ -1,0 +1,138 @@
+{
+  "nav": {
+    "shop": "Boutique",
+    "about": "Notre histoire",
+    "contact": "Contact",
+    "cart": "Panier"
+  },
+  "hero": {
+    "tag": "Surf & Soul Wear",
+    "title": "Des vêtements qui sentent la mer et ont le goût du coucher de soleil",
+    "subtitle": "Des créations uniques à l'âme surfeuse. Chaque pièce est fabriquée pour toi, sans gaspillage. Parce que l'océan mérite qu'on en prenne soin.",
+    "cta": "Voir la collection",
+    "story": "Notre histoire"
+  },
+  "values": {
+    "pod_title": "Print on Demand",
+    "pod_text": "Pas de stock mort. Ta pièce est créée quand tu la commandes, réduisant le gaspillage textile.",
+    "materials_title": "Matériaux conscients",
+    "materials_text": "Coton bio, polyester recyclé et tissus innovants qui respectent la planète.",
+    "design_title": "Design avec âme",
+    "design_text": "Chaque motif naît de l'art ethnique et de la connexion avec l'océan. De l'art que tu portes."
+  },
+  "featured": {
+    "title": "Les plus recherchés",
+    "subtitle": "Des pièces qui connectent avec la mer et avec ceux qui les portent",
+    "cta": "Voir toute la boutique"
+  },
+  "pod_banner": {
+    "title": "Fabriquée pour toi. Rien que pour toi.",
+    "text1": "Nous n'avons pas d'entrepôts pleins de vêtements. Quand tu passes ta commande, ta pièce commence à exister. Chaque pièce est un acte conscient : sans surproduction, sans gaspillage, sans précipitation.",
+    "text2": "Ça prend un peu plus de temps, mais ça vaut la peine d'attendre quelque chose fait en pensant à toi.",
+    "cta": "En savoir plus"
+  },
+  "newsletter": {
+    "title": "Rejoins la tribu",
+    "subtitle": "Sois le premier à découvrir les nouveaux designs, les drops exclusifs et les vagues qui en valent la peine.",
+    "placeholder": "Ton email",
+    "cta": "Rejoindre"
+  },
+  "shop": {
+    "title": "Boutique",
+    "subtitle": "Chaque pièce est fabriquée pour toi quand tu la commandes. Sans précipitation, sans gaspillage.",
+    "empty": "Pas encore de produits dans cette catégorie. Des nouveautés arrivent bientôt.",
+    "all": "Tous",
+    "tshirts": "T-shirts",
+    "hoodies": "Sweats",
+    "swimwear": "Maillots",
+    "pants": "Shorts",
+    "dresses": "Robes",
+    "accessories": "Accessoires"
+  },
+  "product": {
+    "not_found": "Produit non trouvé",
+    "back": "Retour à la boutique",
+    "pod_badge": "Fabriqué sur demande -- délai de 5 à 8 jours ouvrables",
+    "size": "Taille",
+    "size_required": "-- choisis-en une",
+    "color": "Couleur",
+    "add_to_cart": "Ajouter au panier",
+    "added": "Ajouté au panier",
+    "details": "Détails"
+  },
+  "about": {
+    "title": "Nous sommes nés en regardant la mer",
+    "subtitle": "Nube Terracota est une marque de vêtements surf née de la connexion avec l'océan, la nature et les racines ethniques qui nous inspirent.",
+    "history_title": "L'histoire",
+    "history_p1": "Tout a commencé avec des tortues dessinées à la main, aux traits ethniques mêlant l'ancestral au contemporain. Ces dessins sont devenus l'identité d'une marque qui veut t'habiller avec plus que des vêtements : avec intention.",
+    "history_p2": "Nube Terracota existe pour ceux qui sentent que la mer est leur place, qu'un coucher de soleil est une raison suffisante pour s'arrêter, et que ce qu'ils portent devrait raconter une histoire.",
+    "pod_title": "Print on demand : la mode sans gaspillage",
+    "pod_intro": "Nous n'avons pas d'entrepôts pleins de vêtements. Chaque pièce est fabriquée quand tu la commandes. Cela signifie :",
+    "pod_item1": "Zéro surproduction : on ne fabrique pas ce qui ne sera pas utilisé",
+    "pod_item2": "Matériaux conscients : coton bio, tissus recyclés",
+    "pod_item3": "Encres écologiques : à base d'eau, sans produits chimiques agressifs",
+    "pod_item4": "Envois réfléchis : emballage minimal et recyclable",
+    "pod_outro": "Ça prend un peu plus de temps que la fast fashion. Mais la fast fashion a un coût qui n'apparaît pas sur l'étiquette.",
+    "turtles_title": "Les tortues",
+    "turtles_p1": "Les tortues marines sont notre symbole. Elles naviguent les océans depuis des millions d'années avec calme et détermination. Nos créations les réinterprètent avec des motifs ethniques, créant des pièces qui sont de l'art portable.",
+    "turtles_p2": "Chaque tortue est dessinée à la main par la fondatrice. Ce ne sont pas des illustrations génériques : ce sont des personnages avec leur propre âme.",
+    "cta_title": "Trouve ta pièce",
+    "cta_subtitle": "Des vêtements qui connectent avec toi et avec la planète.",
+    "cta_button": "Aller à la boutique"
+  },
+  "contact": {
+    "title": "Parlons",
+    "subtitle": "Questions, idées, collaborations ou simplement dire bonjour. Nous sommes de l'autre côté.",
+    "email": "Email",
+    "social": "Réseaux",
+    "response_title": "Temps de réponse",
+    "response_text": "Nous répondons sous 24-48h ouvrables. Si c'est urgent, écris URGENT dans l'objet.",
+    "name": "Nom",
+    "subject": "Objet",
+    "subject_placeholder": "Choisis-en un",
+    "subject_order": "À propos de ma commande",
+    "subject_product": "Question sur un produit",
+    "subject_collab": "Collaboration",
+    "subject_other": "Autre",
+    "message": "Message",
+    "send": "Envoyer le message",
+    "success_title": "Message envoyé",
+    "success_text": "Nous te répondons dès que possible. Merci de nous avoir écrit."
+  },
+  "cart": {
+    "title": "Ton panier",
+    "empty_title": "Ton panier est vide",
+    "empty_text": "Tu n'as encore rien ajouté. Jette un œil à la boutique.",
+    "go_shop": "Aller à la boutique",
+    "size": "Taille",
+    "color": "Couleur",
+    "pod_note": "Sera fabriqué sur demande",
+    "summary": "Résumé",
+    "subtotal": "Sous-total",
+    "shipping": "Livraison",
+    "free": "Gratuite",
+    "total": "Total",
+    "free_shipping": "Tu as la livraison gratuite",
+    "shipping_left": "Il te manque {{amount}} EUR pour la livraison gratuite",
+    "checkout": "Passer commande",
+    "clear": "Vider le panier"
+  },
+  "footer": {
+    "tagline": "Vêtements surf avec âme. Fabriqués sur demande, sans gaspillage. Chaque pièce porte un morceau d'océan.",
+    "shop": "Boutique",
+    "see_all": "Voir tout",
+    "tshirts": "T-shirts",
+    "hoodies": "Sweats",
+    "swimwear": "Maillots",
+    "info": "Info",
+    "about": "Notre histoire",
+    "contact": "Contact",
+    "shipping": "Livraison et retours",
+    "sustainability": "Durabilité",
+    "follow": "Suivez-nous",
+    "bottom": "Faite avec du sel et du soleil",
+    "legal": "Mentions légales",
+    "privacy": "Confidentialité",
+    "cookies": "Cookies"
+  }
+}

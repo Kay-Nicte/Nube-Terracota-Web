@@ -1,0 +1,48 @@
+.lang-selector {
+  position: relative;
+}
+
+.lang-current {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: rgba(255, 255, 255, 0.8);
+  padding: 4px 8px;
+  border-radius: 4px;
+  transition: color var(--transition);
+}
+
+.lang-current:hover {
+  color: var(--blanco);
+}
+
+.lang-dropdown {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  background: var(--blanco);
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  overflow: hidden;
+  min-width: 140px;
+  z-index: 1001;
+}
+
+.lang-option {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 10px 16px;
+  font-size: 0.85rem;
+  color: var(--texto);
+  transition: background var(--transition);
+}
+
+.lang-option:hover {
+  background: var(--arena-light);
+}
+
+.lang-option.active {
+  color: var(--terracota);
+  font-weight: 600;
+}

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <!-- Fondo -->
+  <rect width="400" height="500" fill="#F5E6D3" rx="8"/>
+
+  <!-- Visera -->
+  <path d="M80 270 Q100 310 200 320 Q300 310 320 270 L310 265 Q290 300 200 308 Q110 300 90 265 Z" fill="#C2714F" stroke="#A85A3A" stroke-width="1.5"/>
+
+  <!-- Copa de la gorra -->
+  <path d="M90 270 Q90 180 200 170 Q310 180 310 270" fill="#F5E6D3" stroke="#E8DDD4" stroke-width="1.5"/>
+
+  <!-- Paneles -->
+  <path d="M200 170 L200 270" stroke="#E8DDD4" stroke-width="1"/>
+  <path d="M145 175 Q148 220 150 270" stroke="#E8DDD4" stroke-width="1"/>
+  <path d="M255 175 Q252 220 250 270" stroke="#E8DDD4" stroke-width="1"/>
+
+  <!-- Boton superior -->
+  <circle cx="200" cy="170" r="4" fill="#C2714F"/>
+
+  <!-- Logo tortuga bordado en el panel frontal -->
+  <g transform="translate(168, 200) scale(0.3)" stroke="#3A2E2A" stroke-width="3" fill="none">
+    <ellipse cx="100" cy="100" rx="52" ry="62" stroke-width="3.5"/>
+    <polygon points="100,58 130,78 130,118 100,138 70,118 70,78" stroke-width="2.5"/>
+    <circle cx="100" cy="98" r="14" stroke-width="2.5"/>
+    <circle cx="100" cy="98" r="5" fill="#3A2E2A"/>
+    <ellipse cx="100" cy="30" rx="12" ry="10" stroke-width="3"/>
+    <path d="M58 58 Q32 38 25 48 Q20 56 38 64 Q48 60 54 62" stroke-width="3" stroke-linecap="round"/>
+    <path d="M142 58 Q168 38 175 48 Q180 56 162 64 Q152 60 146 62" stroke-width="3" stroke-linecap="round"/>
+    <path d="M58 142 Q35 158 30 150 Q24 142 40 136 Q48 138 54 138" stroke-width="3" stroke-linecap="round"/>
+    <path d="M142 142 Q165 158 170 150 Q176 142 160 136 Q152 138 146 138" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Cierre trasero -->
+  <path d="M285 260 Q295 258 300 262" stroke="#A85A3A" stroke-width="1.5"/>
+
+  <!-- Texto marca -->
+  <text x="200" y="420" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#9B8A82" letter-spacing="3">NUBE TERRACOTA</text>
+</svg>

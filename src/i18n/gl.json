@@ -1,0 +1,138 @@
+{
+  "nav": {
+    "shop": "Tenda",
+    "about": "Nós",
+    "contact": "Contacto",
+    "cart": "Cesta"
+  },
+  "hero": {
+    "tag": "Surf & Soul Wear",
+    "title": "Roupa que cheira a mar e sabe a solpor",
+    "subtitle": "Deseños únicos con alma surfeira. Cada peza fabrícasе para ti, sen desperdicio. Porque o océano merece que o coidemos.",
+    "cta": "Ver colección",
+    "story": "A nosa historia"
+  },
+  "values": {
+    "pod_title": "Print on Demand",
+    "pod_text": "Sen stock morto. A túa peza créase cando a pides, reducindo o desperdicio téxtil.",
+    "materials_title": "Materiais conscientes",
+    "materials_text": "Algodón orgánico, poliéster reciclado e tecidos innovadores que respectan o planeta.",
+    "design_title": "Deseño con alma",
+    "design_text": "Cada estampado nace de motivos étnicos e a conexión co océano. Arte que levas posto."
+  },
+  "featured": {
+    "title": "O máis buscado",
+    "subtitle": "Pezas que conectan co mar e con quen as leva",
+    "cta": "Ver toda a tenda"
+  },
+  "pod_banner": {
+    "title": "Fabricada para ti. Só para ti.",
+    "text1": "Non temos almacéns cheos de roupa agardando. Cando fas o teu pedido, a túa peza comeza a existir. Cada peza é un acto consciente: sen sobreprodución, sen desperdicio, sen présas.",
+    "text2": "Tarda un pouquiño máis en chegar, pero paga a pena agardar por algo que se fixo pensando en ti.",
+    "cta": "Saber máis"
+  },
+  "newsletter": {
+    "title": "Únete á tribo",
+    "subtitle": "Entérate antes que ninguén dos novos deseños, drops exclusivos e ondas que pagan a pena.",
+    "placeholder": "O teu email",
+    "cta": "Unirme"
+  },
+  "shop": {
+    "title": "Tenda",
+    "subtitle": "Cada peza fabrícasе para ti cando a pides. Sen présas, sen desperdicio.",
+    "empty": "Aínda non hai produtos nesta categoría. Pronto haberá novidades.",
+    "all": "Todos",
+    "tshirts": "Camisetas",
+    "hoodies": "Sudadoiras",
+    "swimwear": "Bañadores",
+    "pants": "Pantalóns",
+    "dresses": "Vestidos",
+    "accessories": "Accesorios"
+  },
+  "product": {
+    "not_found": "Produto non atopado",
+    "back": "Volver á tenda",
+    "pod_badge": "Fabricada baixo demanda -- tarda 5-8 días laborables",
+    "size": "Talla",
+    "size_required": "-- elixe unha",
+    "color": "Cor",
+    "add_to_cart": "Engadir á cesta",
+    "added": "Engadido á cesta",
+    "details": "Detalles"
+  },
+  "about": {
+    "title": "Nacemos mirando ao mar",
+    "subtitle": "Nube Terracota é unha marca de roupa surfeira que nace da conexión co océano, a natureza e as raíces étnicas que nos inspiran.",
+    "history_title": "A historia",
+    "history_p1": "Todo comezou cunhas tartarugas debuxadas a man, con trazos étnicos que mestúran o ancestral co contemporáneo. Eses debuxos convertéronse na identidade dunha marca que quere vestirte con algo máis que roupa: con intención.",
+    "history_p2": "Nube Terracota existe para quen sente que o mar é o seu sitio, que un solpor é motivo suficiente para pararse, e que o que levan posto debería contar unha historia.",
+    "pod_title": "Print on demand: moda sen desperdicio",
+    "pod_intro": "Non temos almacéns cheos de roupa. Cada peza fabrícasе cando a pides. Isto significa:",
+    "pod_item1": "Cero sobreprodución: non se fabrica o que non se vai usar",
+    "pod_item2": "Materiais conscientes: algodón orgánico, tecidos reciclados",
+    "pod_item3": "Tintas ecolóxicas: a base de auga, sen químicos agresivos",
+    "pod_item4": "Envíos pensados: embalaxe mínimo e reciclable",
+    "pod_outro": "Tarda un pouco máis en chegar que a moda rápida. Pero a moda rápida ten un custo que non aparece na etiqueta.",
+    "turtles_title": "As tartarugas",
+    "turtles_p1": "As tartarugas mariñas son o noso símbolo. Levan millóns de anos navegando os océanos con calma e determinación. Os nosos deseños reinterprétanas con motivos étnicos, creando pezas que son arte portátil.",
+    "turtles_p2": "Cada tartaruga está debuxada a man pola fundadora. Non son ilustracións xenéricas: son personaxes con alma propia.",
+    "cta_title": "Atopa a túa peza",
+    "cta_subtitle": "Roupa que conecta contigo e co planeta.",
+    "cta_button": "Ir á tenda"
+  },
+  "contact": {
+    "title": "Falemos",
+    "subtitle": "Preguntas, ideas, colaboracións ou simplemente saudar. Estamos do outro lado.",
+    "email": "Email",
+    "social": "Redes",
+    "response_title": "Tempos de resposta",
+    "response_text": "Respondemos en 24-48h laborables. Se é urxente, escribe URXENTE no asunto.",
+    "name": "Nome",
+    "subject": "Asunto",
+    "subject_placeholder": "Elixe un",
+    "subject_order": "Sobre o meu pedido",
+    "subject_product": "Pregunta sobre un produto",
+    "subject_collab": "Colaboración",
+    "subject_other": "Outro",
+    "message": "Mensaxe",
+    "send": "Enviar mensaxe",
+    "success_title": "Mensaxe enviada",
+    "success_text": "Respondémosche o antes posible. Grazas por escribirnos."
+  },
+  "cart": {
+    "title": "A túa cesta",
+    "empty_title": "A túa cesta está baleira",
+    "empty_text": "Aínda non engadiches nada. Bota unha ollada á tenda.",
+    "go_shop": "Ir á tenda",
+    "size": "Talla",
+    "color": "Cor",
+    "pod_note": "Fabricarase baixo demanda",
+    "summary": "Resumo",
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "free": "Gratis",
+    "total": "Total",
+    "free_shipping": "Tes envío gratis",
+    "shipping_left": "Fáltanche {{amount}} EUR para envío gratis",
+    "checkout": "Tramitar pedido",
+    "clear": "Baleirar cesta"
+  },
+  "footer": {
+    "tagline": "Roupa surfeira con alma. Fabricada baixo demanda, sen desperdicio. Cada peza leva un anaco de océano.",
+    "shop": "Tenda",
+    "see_all": "Ver todo",
+    "tshirts": "Camisetas",
+    "hoodies": "Sudadoiras",
+    "swimwear": "Bañadores",
+    "info": "Info",
+    "about": "Nós",
+    "contact": "Contacto",
+    "shipping": "Envíos e devolucións",
+    "sustainability": "Sustentabilidade",
+    "follow": "Séguenos",
+    "bottom": "Feita con sal e sol",
+    "legal": "Aviso legal",
+    "privacy": "Privacidade",
+    "cookies": "Cookies"
+  }
+}

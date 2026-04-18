@@ -1,0 +1,44 @@
+.shop-page {
+  padding-bottom: 40px;
+}
+
+.shop-header {
+  padding-top: 48px;
+}
+
+.shop-filters {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.filter-btn {
+  padding: 8px 20px;
+  border-radius: 50px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--texto-light);
+  border: 1px solid var(--borde);
+  background: var(--blanco);
+  transition: all var(--transition);
+}
+
+.filter-btn:hover {
+  border-color: var(--terracota-light);
+  color: var(--terracota);
+}
+
+.filter-btn.active {
+  background: var(--terracota);
+  color: var(--blanco);
+  border-color: var(--terracota);
+}
+
+.shop-empty {
+  text-align: center;
+  color: var(--texto-muted);
+  padding: 80px 0;
+  font-size: 1.05rem;
+}
