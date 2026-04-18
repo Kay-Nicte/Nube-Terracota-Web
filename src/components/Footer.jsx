@@ -29,7 +29,7 @@ function Footer() {
             <h4>{t('footer.info')}</h4>
             <Link to="/nosotras">{t('footer.about')}</Link>
             <Link to="/contacto">{t('footer.contact')}</Link>
-            <a href="#">{t('footer.shipping')}</a>
+            <Link to="/envios-y-devoluciones">{t('footer.shipping')}</Link>
             <a href="#">{t('footer.sustainability')}</a>
           </div>
 

@@ -50,9 +50,10 @@ function Cart() {
             {items.map((item) => (
               <div key={`${item.id}-${item.size}`} className="cart-item">
                 <div className="cart-item-image">
-                  <div className="product-card-placeholder" style={{ width: 80, height: 100, borderRadius: 8 }}>
-                    <span>{item.name.charAt(0)}</span>
-                  </div>
+                  {item.image
+                    ? <img src={item.image} alt={item.name} style={{ width: 80, height: 100, borderRadius: 8, objectFit: 'cover' }} />
+                    : <div className="product-card-placeholder" style={{ width: 80, height: 100, borderRadius: 8 }}><span>{item.name.charAt(0)}</span></div>
+                  }
                 </div>
                 <div className="cart-item-info">
                   <h3>

@@ -48,6 +48,10 @@ function Product() {
     )
   }
 
+  const currentPrice = (product.priceBySize && selectedSize)
+    ? product.priceBySize[selectedSize]
+    : product.price
+
   const currentImages = (product.imagesByColor && selectedColor && product.imagesByColor[selectedColor])
     ? product.imagesByColor[selectedColor]
     : product.images
@@ -69,7 +73,7 @@ function Product() {
     addItem({
       id: product.id,
       name: product.name,
-      price: product.price,
+      price: currentPrice,
       size: selectedSize,
       color: selectedColor || product.colors[0],
       image: product.image,
@@ -111,7 +115,10 @@ function Product() {
 
           <div className="product-info">
             <h1>{product.name}</h1>
-            <p className="product-price">{product.price.toFixed(2)} EUR</p>
+            <p className="product-price">
+              {currentPrice.toFixed(2)} EUR
+              {product.priceBySize && !selectedSize && <span className="price-note"> — el precio varía según la talla</span>}
+            </p>
 
             <p className="product-desc">
               {product.descriptionBold && <strong>{product.descriptionBold} </strong>}

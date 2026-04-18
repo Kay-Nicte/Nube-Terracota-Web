@@ -1,3 +1,7 @@
+import sudaderaHombre from '../assets/SudaderaSolUnisexHombreBlanco.png'
+import sudaderaHombre2 from '../assets/SudaderaSolUnisexHombreBlanco2.png'
+import sudaderaMujer from '../assets/SudaderaSolUnisexMujerBlanco.png'
+import sudaderaMujerEspalda from '../assets/SudaderaSolUnisexMujerEspaldaBlanco.png'
 import gorraBlanca from '../assets/GorraBeisbolBlanca.png'
 import gorraBlancaAtras from '../assets/GorraBeisbolAtrasBlanca.png'
 import gorraBlancaLateral from '../assets/GorraBeisbolLateralBlanca.png'
@@ -60,7 +64,7 @@ const products = [
     id: 1,
     name: 'Camiseta Mujer Honu',
     slug: 'camiseta-mujer-honu',
-    price: 24.90,
+    price: 25.90,
     category: 'camisetas',
     seo: {
       title: 'Camiseta de mujer con tortuga Honu - Nube Terracota',
@@ -176,10 +180,63 @@ const products = [
     featured: true,
   },
   {
+    id: 4,
+    name: 'Sudadera Sunburst Crewneck',
+    slug: 'sudadera-sunburst-crewneck',
+    price: 44.90,
+    category: 'sudaderas',
+    seo: {
+      title: 'Sudadera Sunburst Crewneck unisex - Nube Terracota',
+      description: 'Sudadera unisex Sunburst de Nube Terracota. Ilustración de sol en pecho y logotipo en espalda. Mezcla algodón-poliéster, acabado anti-bolitas y corte clásico.',
+    },
+    descriptionBold: null,
+    description: 'Hay diseños que no necesitan gritar para hacerse notar. Nuestra sudadera Sunburst combina la calidez de una ilustración orgánica en el pecho con la fuerza de nuestra identidad en la espalda. Es una prenda pensada para quienes buscan ese equilibrio entre el arte minimalista y el estilo urbano más cuidado. El sol, con sus capas de nubes entrelazadas, simboliza esos días infinitos de luz que inspiran a nuestra marca. Confeccionada en una mezcla de algodón suave, esta sudadera de cuello redondo es la pieza clave para tus looks de entretiempo o esas noches donde el sol se pone pero tú quieres seguir fuera.',
+    details: [
+      { label: 'Doble Impacto Visual', text: 'Ilustración de sol de autor en el pecho (lado izquierdo) y logotipo "Nube Terracota" en formato grande en la espalda.' },
+      { label: 'Tejido Confort', text: 'Mezcla de 50% algodón y 50% poliéster para un equilibrio perfecto entre calidez, suavidad y resistencia.' },
+      { label: 'Acabado Anti-bolitas', text: 'Hilado de chorro de aire que mantiene la superficie suave y libre de pelusas tras muchos lavados.' },
+      { label: 'Construcción Robusta', text: 'Costuras de doble puntada en las zonas de mayor tensión (cuello, hombros y puños) para asegurar una larga vida útil.' },
+      { label: 'Corte Clásico Unisex', text: 'Silueta cómoda y relajada que sienta bien en cualquier tipo de cuerpo.' },
+    ],
+    sizes: ['S', 'M', 'L', 'XL', '2XL', '3XL', '4XL', '5XL'],
+    priceBySize: {
+      'S': 44.90, 'M': 44.90, 'L': 44.90, 'XL': 44.90,
+      '2XL': 49.90, '3XL': 54.90, '4XL': 64.90, '5XL': 69.90,
+    },
+    colors: ['Blanco'],
+    measurements: {
+      metric: [
+        ['', 'S', 'M', 'L', 'XL', '2XL', '3XL', '4XL', '5XL'],
+        ['Longitud (cm)', '69', '71', '74', '76', '79', '81', '83.8', '86.3'],
+        ['Anchura (cm)', '102', '112', '122', '132', '142', '152', '162.6', '172.8'],
+        ['Medio pecho (cm)', '51', '56', '61', '66', '71', '76', '81.3', '86.4'],
+        ['Longitud manga (cm)', '85', '88', '90', '93', '95', '98', '100.3', '102.9'],
+      ],
+      imperial: [
+        ['', 'S', 'M', 'L', 'XL', '2XL', '3XL', '4XL', '5XL'],
+        ['Longitud (pulg.)', '27.2', '28', '29.1', '29.9', '31.1', '31.9', '33', '34'],
+        ['Anchura (pulg.)', '40.2', '44.1', '48', '52', '55.9', '59.8', '64', '68'],
+        ['Medio pecho (pulg.)', '20.1', '22', '24', '26', '28', '29.9', '32', '34'],
+      ],
+    },
+    care: [
+      { label: 'General', text: 'Esta sudadera es un básico versátil para cualquier armario, ya que combina la comodidad con un estilo informal.' },
+      { label: 'Lavado', text: 'Se puede lavar a máquina en agua tibia con colores similares.' },
+      { label: 'Secado', text: 'Secar en secadora a temperatura media.' },
+      { label: 'Guardado', text: 'Guardar en un lugar fresco, seco y alejado de la luz solar directa.' },
+    ],
+    image: sudaderaHombre,
+    images: [sudaderaHombre, sudaderaHombre2, sudaderaMujer, sudaderaMujerEspalda],
+    imagesByColor: {
+      'Blanco': [sudaderaHombre, sudaderaHombre2, sudaderaMujer, sudaderaMujerEspalda],
+    },
+    featured: true,
+  },
+  {
     id: 3,
     name: 'Gorra Urban',
     slug: 'gorra-urban',
-    price: 23.68,
+    price: 27.90,
     category: 'accesorios',
     seo: {
       title: 'Gorra Urban bordado premium - Nube Terracota',

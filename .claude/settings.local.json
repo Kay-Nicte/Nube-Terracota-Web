@@ -21,7 +21,10 @@
       "Bash(git commit *)",
       "Bash(git branch *)",
       "Bash(git remote *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(git -C /c/Users/34696/Desktop/Panal/NubeTerracotaWeb add .)",
+      "Bash(git -C /c/Users/34696/Desktop/Panal/NubeTerracotaWeb commit -m \"Añadir productos reales, política de devoluciones, precio por talla, imágenes en carrito\")",
+      "Bash(git -C /c/Users/34696/Desktop/Panal/NubeTerracotaWeb push)"
     ]
   }
 }

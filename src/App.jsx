@@ -15,6 +15,7 @@ import Login from './pages/Login'
 import Register from './pages/Register'
 import Account from './pages/Account'
 import ForgotPassword from './pages/ForgotPassword'
+import Returns from './pages/Returns'
 import { CartProvider } from './context/CartContext'
 import { AuthProvider } from './context/AuthContext'
 
@@ -39,6 +40,7 @@ function App() {
             <Route path="/registro" element={<Register />} />
             <Route path="/cuenta" element={<Account />} />
             <Route path="/recuperar-contrasena" element={<ForgotPassword />} />
+            <Route path="/envios-y-devoluciones" element={<Returns />} />
           </Routes>
         </main>
         <Footer />
